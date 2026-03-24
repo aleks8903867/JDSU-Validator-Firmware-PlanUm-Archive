@@ -28,8 +28,8 @@ This archive contains everything needed to restore, update, and fully utilize bo
 
 To ensure these files never disappear again, they are mirrored across multiple platforms. You can download the complete ZIP archive from any of the following links:
 
-* **[🏛️ Download from Internet Archive (Archive.org)](ТВОЯ_ССЫЛКА_СЮДА)** - *Permanent preservation link*
-* **[☁️ Download from Google Drive](ТВОЯ_ССЫЛКА_СЮДА)** - *Fast direct download*
+* **[🏛️ Download from Internet Archive (Archive.org)](https://archive.org/details/jdsu-test-um-validator-nt900-validatorpro-firmware-plan-um-software-archiv)** - *Permanent preservation link*
+* **[☁️ Download from Google Drive](https://drive.google.com/drive/folders/1Gw2-rAvgwKvnADDJIP5iO9OMz9Lwih8f?usp=sharing)** - *Fast direct download*
 
 ## ⚠️ How to Update Firmware
 1. Ensure your Validator battery is fully charged.
