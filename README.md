@@ -17,6 +17,7 @@ This archive contains everything needed to restore, update, and fully utilize bo
 ### 2. Validator (NT900 / NT950 / NT955) Firmware
 * **v2.91 Firmware update (`VAL-FULL-2010Sep10-0855-VALAPP-2.91.TUI`):** The absolute final update. **Crucial fix:** Resolves the severe UI freezing bug when attempting to plot frequency graphs on older versions (like v2.32). Includes updated Agere PHY microcode (1.3).
 * **v2.80 Firmware update (`VAL-FULL-2010Jan28-1254-valapp-2.80.TUI`):** Included as a fallback/stepping-stone update if your device refuses to jump straight to v2.91.
+* **v2.32 (Legacy) Firmware (`VAL-FULL-2007Aug28-0150.tui`):** An older historical firmware from 2007. Included for absolute completeness and archival purposes, or in case a deep downgrade is ever needed for testing.
 
 ### 3. ValidatorPRO (NT1150 / NT1155) Firmware
 * Includes legacy `.tui` update files for the PRO series (Optical/Fiber enabled models).
